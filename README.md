@@ -1,5 +1,5 @@
-# Multiroom
-This is full stack web application made with vanilla javascript in this you can scroll the upcomimg events of movies and games and like dislike and create a room or join a existing room and chat within your personal room send selfies and play music inside the app.
+# Multiroom 1.0
+This is a full stack web application made with vanilla javascript in this you can scroll the upcoming events of movies and games and like dislike and create a room or join an existing room and chat within your room send selfies and play music inside the app.
 
 ![Screenshot 2023-06-04 213909](https://github.com/Techanmolporwal/multiroom/assets/89104678/da3df1d7-6d10-404f-bb32-5e8473649e77)
 ![Screenshot 2023-06-04 213932](https://github.com/Techanmolporwal/multiroom/assets/89104678/ac1cc549-dd08-477b-9145-b224d3613295)
@@ -11,9 +11,9 @@ This is full stack web application made with vanilla javascript in this you can 
 
 # Language used
 -> Frontend 
-* html
-* css
-* javascript
+* HTML
+* CSS
+* Javascript
 * jquery 
 
 -> Backend
@@ -21,17 +21,17 @@ This is full stack web application made with vanilla javascript in this you can 
 * express js
 
 -> Database
-* mongodb
+* MongoDB
 
 # Features
-* First user can signUp
-* Then user can login with it email and password
-* Then user can scroll the upcoming event for games and movies
-* Then user can create or join the room with link 
-* Then user can chat with its friends 
-* Play music send photos and files
+* First user can signup
+* Then a user can log in with their email and password
+* Then user can scroll the upcoming events for games and movies
+* Then a user can create or join the room with a link 
+* Then user can chat with their friends 
+* Play music and send photos and files
 
-#commands
+#Commands
 
 -> npm install
 
